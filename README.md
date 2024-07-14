@@ -7,17 +7,17 @@ _ Resolucion del tercer challenge de Alura hecho por su servidor y con la ayuda 
 _El objetivo de este challenge es el siguiente:El objetivo principal del reto "ForoHub" es replicar el funcionamiento de un foro a nivel de back end. Para ello, se creará una API REST usando Spring, que permitirá
 entender y desarrollar las estructuras y procesos necesarios para que un foro funcione correctamente desde el lado del servidor._
 
-*QUE VA HACER EL PROYECTO:  Nuestra API se centrará específicamente en los tópicos, y debe permitir a los usuarios:
+* QUE VA HACER EL PROYECTO:  Nuestra API se centrará específicamente en los tópicos, y debe permitir a los usuarios:
 
-*Crear un nuevo tópico;
+* Crear un nuevo tópico;
 
-*Mostrar todos los tópicos creados;
+* Mostrar todos los tópicos creados;
 
-*Mostrar un tópico específico;
+* Mostrar un tópico específico;
 
-*Actualizar un tópico;
+* Actualizar un tópico;
 
-*Eliminar un tópico.
+* Eliminar un tópico.
 
 ### Pasos para lograr el CHALLENGE 🔧
 
