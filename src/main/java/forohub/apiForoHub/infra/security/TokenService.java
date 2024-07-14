@@ -33,8 +33,7 @@ public class TokenService {
         }
     }
 
-    public String getSuls
-    ct(String token) {
+    public String getSubject(String token) {
         if (token == null) {
             throw new RuntimeException();
         }
