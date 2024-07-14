@@ -20,13 +20,16 @@ entender y desarrollar las estructuras y procesos necesarios para que un foro fu
 *Eliminar un tópico.
 
 ### Pasos para lograr el CHALLENGE 🔧
-_Pasos que segui: _
-*Crear repositorio en GitHub
-*Crear la base de datos con MySQL
-*Configurar el entorno Java y Spring, creando el proyecto con Spring Initializr
-*Realizar las reglas de negocio
-*Implementar seguridad en la API
-*Probar la API
+
+## Pasos que seguí:
+
+* Crear repositorio en GitHub
+* Crear la base de datos con MySQL
+* Configurar el entorno Java y Spring, creando el proyecto con Spring Initializr
+* Realizar las reglas de negocio
+* Implementar seguridad en la API
+* Probar la API
+
 
 ## Construido con 🛠️
 
