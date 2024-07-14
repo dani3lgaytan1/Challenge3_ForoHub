@@ -1,4 +1,4 @@
-#LiterALura
+#FOROHUB 
 
 _ Resolucion del tercer challenge de Alura hecho por su servidor y con la ayuda de los cursos de alura _
 
@@ -21,13 +21,12 @@ entender y desarrollar las estructuras y procesos necesarios para que un foro fu
 
 ### Pasos para lograr el CHALLENGE 🔧
 
-*Configuración del Ambiente Java : Mediante spring initializr y el uso de intellij IDEA se empezo con la configuracion del proyecto.
-*Creación del Proyecto : la creacion del repo en github y las clases necesarias para el challenge 
-*Consumo de la API: Se uso la API GUTENDEX
-*Análisis de la Respuesta JSON: Mediante POSTMAN y pruebas se verifico que retornaba la consulta de la API
-*Inserción y consulta en la base de datos : Se uso una base relacional SQL , postgres y con la ayuda de pgAdmin se estuvo administrando
-*Exibición de resultados a los usuarios : Mediante impresion en consola con un menu se mostraron las opciones que el usuario puede acceder.
-
+*Crear repositorio en GitHub
+*Crear la base de datos con MySQL
+*Configurar el entorno Java y Spring, creando el proyecto con Spring Initializr
+*Realizar las reglas de negocio
+*Implementar seguridad en la API
+*Probar la API
 
 ## Construido con 🛠️
 
