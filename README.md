@@ -20,7 +20,7 @@ entender y desarrollar las estructuras y procesos necesarios para que un foro fu
 *Eliminar un tópico.
 
 ### Pasos para lograr el CHALLENGE 🔧
-
+_Pasos que segui: _
 *Crear repositorio en GitHub
 *Crear la base de datos con MySQL
 *Configurar el entorno Java y Spring, creando el proyecto con Spring Initializr
@@ -32,9 +32,11 @@ entender y desarrollar las estructuras y procesos necesarios para que un foro fu
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
-* [Spring](https://start.spring.io/) - Spring 
-* [PostgreSQL](https://www.postgresql.org/download/) - PostgreSQL
+* [Spring](https://start.spring.io/) - Spring
+* [Spring Security]( https://spring.io/projects/spring-security) - Spring security
+* [MySQL](https://dev.mysql.com/downloads/installer/) - Base de Datos 
 * [IntelliJ IDEA](https://www.jetbrains.com/es-es/idea/download/?section=windows)- IDE (Entorno de desenvolvimento integrado) IntelliJ IDEA
+* 
 
 ## Autores ✒️
 
@@ -42,6 +44,6 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 ## Expresiones de Gratitud 🎁
 
-*Gracias a ALURA poe estos cursos, en verdad que me emciono realizar este Challenge :)
+*Gracias a ALURA poe estos cursos, en verdad que me emciono realizar este Challenge y ultimo reto :)
 
 
